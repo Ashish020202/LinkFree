@@ -1,0 +1,17 @@
+{
+  "name": "Ashish Kumar",
+  "type": "personal",
+  "bio": "Open Source ethusiast",
+  "links": [
+    {
+      "name": "Follow me on twitter",
+      "url": "https://twitter.com/Ashishk020202",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Follow me on Instagram",
+      "url": "https://www.instagram.com/ashish_020202/",
+      "icon": "FaInstagram"
+    }
+  ]
+}
